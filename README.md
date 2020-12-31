@@ -12,7 +12,7 @@ Catégories
 * [Civic Tech](#Civic-Tech)
 * [Google](#Google)
     * [Drive](#Drive)
-
+* [Indie Hacker](#Indie-Hacker)
 ---
 
 ## Civic Tech
@@ -23,3 +23,7 @@ Catégories
 ### Drive
 
 * [SVG dans Google Drive (Docs, Sheets, Slides)](google/drive/svg-to-google-drive.md)
+
+## Indie Hacker
+
+* [Qu'est-ce qu'un "Indie Hacker" ?](indie-hacker/what-indie-hacker.md)
