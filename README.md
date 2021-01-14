@@ -11,11 +11,14 @@ Catégories
 
 * [Civic Tech](#Civic-Tech)
 * [Google](#Google)
-    * [Drive](#Drive)
+  * [Drive](#Drive)
+  * [Map](#Map)
 * [Indie Hacker](#Indie-Hacker)
+
 ---
 
 ## Civic Tech
+
 * [G0v (Gov Zero)](civic-tech/g0v.md)
 
 ## Google
@@ -23,6 +26,10 @@ Catégories
 ### Drive
 
 * [SVG dans Google Drive (Docs, Sheets, Slides)](google/drive/svg-to-google-drive.md)
+
+### Map
+
+* [Mobile, Google map en mode privée](google/map/mobile-google-map-mode-privee.md)
 
 ## Indie Hacker
 
