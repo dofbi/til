@@ -23,6 +23,10 @@ Catégories
 
 ## Google
 
+### Chrome
+
+* [Google Chrome, onglets groupés](google/chrome/onglets-groupes.md)
+
 ### Drive
 
 * [SVG dans Google Drive (Docs, Sheets, Slides)](google/drive/svg-to-google-drive.md)
