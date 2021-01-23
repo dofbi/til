@@ -10,7 +10,10 @@ Pour un flux régulier de TIL, [inscrivez-toi à ma newsletter](https://dofbi.ha
 Catégories
 
 * [Civic Tech](#Civic-Tech)
+* [Code](#Code)
+  * [Conseils](#Conseils)
 * [Google](#Google)
+  * [Chrome](#Chrome)
   * [Drive](#Drive)
   * [Map](#Map)
 * [Indie Hacker](#Indie-Hacker)
@@ -20,6 +23,12 @@ Catégories
 ## Civic Tech
 
 * [G0v (Gov Zero)](civic-tech/g0v.md)
+
+## Code
+
+### Conseils
+
+* [Pilote, check liste et programmeur, Cheat liste](code/conseils/cheat-liste.md)
 
 ## Google
 

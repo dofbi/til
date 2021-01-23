@@ -6,7 +6,7 @@
 
 ## Comment faire ?
 
-Faites un clic droit sur un onglet et choisissez de l’Ajouter à un nouveau groupe. L’onglet se voit attribuer automatiquement une couleur.
+Faites un clic droit sur un onglet et choisissez de l’**Ajouter à un nouveau groupe**. L’onglet se voit attribuer automatiquement une couleur.
 
 ![alt](../../assets/google/chrome/ongletgroupes02.png)
 
