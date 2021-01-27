@@ -3,7 +3,7 @@ Bienvenue, dans mon TIL (Today I Learned) dans le domaine de la technologie, une
 
 Pour un flux régulier de TIL, [inscrivez-toi à ma newsletter](https://dofbi.hashnode.dev).
 
-2 TIL pour le moment...
+7 TIL pour le moment...
 
 ---
 
@@ -17,6 +17,8 @@ Catégories
   * [Drive](#Drive)
   * [Map](#Map)
 * [Indie Hacker](#Indie-Hacker)
+* [Quotidien](#Quotidien)
+  * [Assistant](#Assistant)
 
 ---
 
@@ -47,3 +49,9 @@ Catégories
 ## Indie Hacker
 
 * [Qu'est-ce qu'un "Indie Hacker" ?](indie-hacker/what-indie-hacker.md)
+
+## Quotidien
+
+### Assistant
+
+* [Lis pour moi](quotidien/assistant/lispour-moi.md)
