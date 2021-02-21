@@ -19,6 +19,8 @@ Catégories
 * [Indie Hacker](#Indie-Hacker)
 * [Quotidien](#Quotidien)
   * [Assistant](#Assistant)
+  * [Donnée](#Donnée)
+* [Vie Privée](#Vie-Privée)
 
 ---
 
@@ -55,3 +57,11 @@ Catégories
 ### Assistant
 
 * [Lis pour moi](quotidien/assistant/lispour-moi.md)
+
+## Donnée
+
+* [Comment récupérer un site effacée ?](quotidien/donnee/comment-récuperer-un-site-effacee.md)
+
+## Vie Privée
+
+* [Comment gérer votre vie privée avec la croissance de l'INTERNET OF ME ?](vie-privee/gere-votre-vie-prive.md)
