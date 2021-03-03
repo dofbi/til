@@ -61,6 +61,7 @@ Catégories
 ## Donnée
 
 * [Comment récupérer un site effacée ?](quotidien/donnee/comment-récuperer-un-site-effacee.md)
+* [Sauvegarde d'un site Web avec Wget](quotidien/donnee/sauvegarde-site-Web-avec-wget.md)
 
 ## Vie Privée
 

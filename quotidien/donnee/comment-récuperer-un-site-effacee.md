@@ -17,4 +17,4 @@ Pour un nouveau projet Civic Tech, j'avais besoin des données du site [servicep
 
     ![archive](../../assets/quotidien/donnee/archive03.png)
 
-## Retrouvez l'archive de 1925 démarches administratives de [servicepublic.gouv.sn ici](https://github.com/senegalouvert/servicepublic/tree/main/data)
+## Retrouvez l'archive des 1925 démarches administratives de [servicepublic.gouv.sn ici](https://github.com/senegalouvert/servicepublic/tree/main/data)
