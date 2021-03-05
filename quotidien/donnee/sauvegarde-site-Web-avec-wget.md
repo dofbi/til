@@ -41,7 +41,7 @@ $ wget \
     --adjust-extension
     --mirror
     --page-requisites
-    https://satisfaction.ansd.sn \
+    https://satisfaction.ansd.sn
 ```
 
 ![wget](../../assets/quotidien/donnee/wget.png)
