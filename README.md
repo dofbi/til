@@ -67,3 +67,4 @@ Catégories
 
 * [Comment gérer votre vie privée avec la croissance de l'INTERNET OF ME ?](vie-privee/gere-votre-vie-prive.md)
 * [Qu'est-ce qui fait un VPN sûr?](vie-privee/vpn-sur.md)
+* [Comment tweeter par SMS ?](vie-privee/tweeter-par-sms.md)
