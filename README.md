@@ -1,7 +1,7 @@
 # TIL
 Bienvenue, dans mon TIL (Today I Learned) dans le domaine de la technologie, une collection de petites choses que j'apprends au jour le jour.
 
-Pour un flux régulier de TIL, [inscrivez-toi à ma newsletter](https://dofbi.hashnode.dev).
+Pour un flux régulier de TIL, [inscrivez-vous à ma newsletter](https://dofbi.hashnode.dev).
 
 7 TIL pour le moment...
 
