@@ -34,6 +34,7 @@ Catégories
 
 * [Pilote, check liste et programmeur, Cheat liste](code/conseils/cheat-liste.md)
 * [Apprendre un nouveau langage plus vite avec GitHub Copilot](code/conseils/apprendre-avec-github-copilot.md)
+* [Code Cloud](code-cloud.md)
 
 ## Google
 
