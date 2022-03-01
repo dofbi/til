@@ -42,6 +42,7 @@ Catégories
 ### Chrome
 
 * [Google Chrome, onglets groupés](google/chrome/onglets-groupes.md)
+* [Reprendre le contrôle de votre navigateur](reprendre-le-controle-du-navigateur.md)
 
 ### Drive
 
